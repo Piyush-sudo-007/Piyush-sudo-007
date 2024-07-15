@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Piyush-sudo-007
-- 👀 I’m interested in developing software
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in developing software/websites
+- 🌱 I’m currently learning python
 - 📫 Reach me with my mail sraj71319@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
