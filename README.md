@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Piyush-sudo-007
 - 👀 I’m interested in developing software/websites
-- 🌱 I’m currently learning python
-- 📫 Reach me with my mail sraj71319@gmail.com 
+- 🌱 I have skills in MERN Stack , APIs , C , C++ , Java .
+- 📫 Reach me with my mail piyushdevmgr@gmail.com 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
