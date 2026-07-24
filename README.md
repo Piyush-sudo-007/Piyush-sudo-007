@@ -36,16 +36,6 @@ If you'd like to collaborate on a project or simply want to connect, feel free t
 
 ---
 
-## 📊 GitHub Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Piyush-sudo-007)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyush-sudo-007)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Piyush-sudo-007)](https://github.com/Piyush-sudo-007)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Piyush-sudo-007)](https://git.io/streak-stats)
-
----
-
 ## 🌟 Get to know me better
 
 - 📚 Continuous learner in the evolving world of software development.
